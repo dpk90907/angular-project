@@ -1,0 +1,19 @@
+<!-- <p>login works!</p> -->
+
+<div class="card">
+ <div class="card-body " >
+    <h1 class="text-center">Login</h1>
+<form (ngSubmit)="onClickLogin()" #myform="ngForm">
+    <label class="size">Email </label>
+    <input type="text" name="email" class="form-control" [(ngModel)]="email" placeholder="enter the email">
+    <label>Password</label>
+    <input type="text" class="form-control" [(ngModel)]="password" name="password"  placeholder="enter the password"><br>
+    <div class="login-button text-center">
+        <button type="submit" class="btn btn-warning button2" >Login</button>
+        <button type="button" class="btn btn-warning" (click)="onClickSingup()">Signup</button>
+    </div>
+</form>
+</div>
+</div>
+
+

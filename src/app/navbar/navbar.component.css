@@ -1,0 +1,43 @@
+h1 p{
+    font-size: 20px;
+    text-align: center;
+}
+.nav0{
+    background-color: #000000;
+    color: white;
+    
+}
+.greenDot{
+    width: 8px;
+    height: 8px;
+    background-color:#F0C540;
+    border-radius: 50%;
+    margin-top: 15px;
+}
+.spanClass{
+    width: 100%;
+    height: 3px;
+    background-color: #ffffff;
+    border-radius: 10%;      
+}
+/* .nav1{
+    margin-left: 94px;
+    margin-bottom: 51px;
+    
+ }  */
+/* .nav2{
+    
+    border-bottom: 1px   solid gray
+} */
+#id{
+    color: aliceblue;
+}
+.whitebox{
+    background-color: rgb(9, 10, 10);
+    width: 1000px;
+    height: 80px;
+    margin: auto;
+}
+
+
+

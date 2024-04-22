@@ -1,0 +1,104 @@
+/* *{border: 1px solid red;} */
+.home{
+    background-color: #e0dbdb;
+    background-image: url(../../../assets/pexels-jay-pizzle-3802510.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center
+}
+.box{
+    width: 1200px;
+   /* padding: 25px; */
+    box-sizing: border-box;
+    border: 4px solid rgb(237, 233, 233);
+    background-color: white;
+    z-index: 5;
+    margin: auto;
+}
+.sideborder{
+    border-right: 3px solid rgb(13, 12, 12);
+}
+.greenDot{
+    width: 83px;
+    height: 83px;
+    background-color:#F0C540;
+    border-radius: 50%;
+    margin: auto;
+    
+}
+.boxes{
+   
+    border: 3px solid #b5c8dc;
+  border-radius: 10px;
+  margin: 10px;
+   }
+   .srech{
+    width: 60px;
+    height: 55px;
+    background-color:#050505;
+    }
+    .minibus{
+        background-color: #b5c8dc;
+        background-image: url(../../../assets/pexels-jay-pizzle-3802510.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 50vh; 
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .home4_img{
+          background-color: #b5c8dc;
+        background-image: url(../../../assets/pexels-jay-pizzle-3802510.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 60vh; 
+        display: flex;
+        flex-direction: column;
+    }
+    .home5_img{
+        background-color: #b5c8dc;
+      background-image: url(../../../assets/pexels-jay-pizzle-3802510.jpg);
+      background-size: cover;
+      background-position: center;
+      height: 50vh; 
+      display: flex;
+      flex-direction: column;
+  }
+  .relative{
+    position: relative;
+  }
+  .absolute{
+    position: absolute;
+    z-index: 5;
+    top: 57%;
+    left: 66%
+  }
+  .loction{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-image: url(../../../assets/pexels-jay-pizzle-3802510.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 40vh; 
+    display: flex;
+    color: white;
+    /* flex-direction: column; */
+  
+    
+  }
+  .dout{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: white;
+  }
+
+  
+
+    
+
